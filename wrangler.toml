@@ -1,10 +1,10 @@
-name = "drive"
+name = "myonedrive"
 type = "webpack"
 workers_dev = "true"
-account_id = ""
-zone_id = ""
+account_id = "41e06d6781f4deafbdc3d91145faf962"
+zone_id = "2d3b83c60fde6613babec3246163405c"
 kv_namespaces = [
-		 { binding = "BUCKET", preview_id = "", id = "" }
+		 { binding = "BUCKET", id = "b00a72e12db943d396f461176f81b68d" }
 ]
 
 [env.staging]
