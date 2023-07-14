@@ -5,8 +5,8 @@ const config = {
    * to get following params: client_id, client_secret, refresh_token & redirect_uri.
    */
   refresh_token: "0.AX0AEqZW8rbs5ZQ9scj51G1pBPv20SzX36O6xzixwF4ThyZNNJ7JfMKSHKclGxHjtF-Wpi7jzEg1xL3sCOtR8VKpbpzHW3oTuRH6GrcDXsONMZB5els1KB7dxuSBN5QfgHq4ScDuXgkSxchFfeaR6KdFWoR83aHYfXqsvzdrmTeXr3t71kxZv5Gbc5fAignCyjo1dAFujrkkslHIc7M-1203ADNBHbL28M697DuDIdUm6s7Nk-h-l8TNZidxrKfVXxrzvENcs9P6gTqyvhCR_LXg7raScL-H_wFXyGwoXpZYpqocbLIiKzuCgHeKAvCP6qYLgeuixZ8_QkO0OHqv33JpwOx_PyFZ6LwKFrcUDYuqgd1L1PJlQOrEFsi0Jzouf-Gpp7JTqRkYkxIt2hHbUzmucHRp1NpE_SYVJ5ofo7Pf4647gre27b9SlBP25zgz9nT5mjO0JzzfF-b-k35ANyqe9ZrR80Cl9MT-71udW_SBaMwvr2HwbGUdzH8Pd6lDdrI5tU9q3Cu6zRUOGSqZqipAE4rm5LgIPHFjiPwCwakIB13BiX_C4qiJbZ4afj_OGDZ960bynikS4rjxJ6PDQp960gYdcUMUESS2-8zfeBZACFuX-QR4irZIYbk9gLyRhL4HN1oE41Uu9Q6fTAMjsqAnwhdS-P13lN0i07FIJIcxyzrc3NgTOT6ot7FCcKbABkeKEOF_ftdZ1fp10uvlzl20kPFKJ_sOUSBr5-jKCRchxcyuXaI1wAmOKEUsIdij3A5VqymD2FG2ldsSbVP2teiZRpUGY1WW6TH0SyzwZzCHM1bGkC9jKmOTRlCctTZvoWOuyleetqwySEqYnJulGVaPQ5n2GXbJqrWG8Bk4p-_Jwvl2qp-MScH4pNERJ0le0ujb5CsLeHf8C1_jYHlUSoPq70X_DWw6YMqOIJmhcy_jlY89rxyt4hxDChxW1sPiuReeNfzxPYGMScRm2PwRAm2dn4Sopq1DkYmzzwPyzK9JfQa39gBP1rCsxLQ6bw1BMARvKi-bz6k_GIikeTq_yliWnk",
-  client_id: '0eb4befd-fa9e-4ff7-4ff7-1ba20d90a02a',
-  client_secret: '-IKAj_R8K~I27-4m3i3kf32zT6DHOivi.',
+  client_id: 'e9855bf3-3556-4aa0-a8d0-daeff9df44e7',
+  client_secret: 'tGc8Q~V4vVtWoE_t-~semqp~DHnQz8B9fCRC8b~P.',
   redirect_uri: 'https://heymind.github.io/tools/microsoft-graph-api-auth',
 
   /**
